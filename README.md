@@ -1,6 +1,6 @@
 # CV
 Resume of-
-MD MAHMUDUL HASAN
+**MD MAHMUDUL HASAN**
 
 
 B.Sc. in Electrical & Electronic Engineering (EEE)
@@ -15,7 +15,7 @@ The University of New South Wales (UNSW), Sydney 2052, Australia
 Google Scholar: https://scholar.google.com/citations?user=2bnHcKsAAAAJ&hl=en
 
 
-Professional Experiences:
+**Professional Experiences:**
 
 Ph.D. Scholar
 The University of New South Wales (UNSW), Australia
@@ -48,7 +48,7 @@ Qadirabad cantonment, Natore-6431, Bangladesh.
 email: mubin.kuet.eee@gmail.com
   
 
-CAREER 
+**CAREER **
 
 Md Mahmudul Hasan is a postgraduate scholar (Ph.D. scholar) at the University of New South Wales (UNSW), which is one of the best universities in Australia (1st in Engineering) and worldwide (on e of the top 50). He is working with Medical imaging and deep learning. Previously, he was a Master of Philosophy (MPhil) researcher at Queensland University of Technology (QUT), Australia, where he is applying his engineering knowledge to Medical applications in his MPhil research. 
 
@@ -83,11 +83,11 @@ QUT ePrints2:
 
 
 
-RESEARCH  INTERESTS
+**RESEARCH  INTERESTS**
 
 Machine Learning, Deep Learning, Medical Machine Learning, Medical Data Mining, Artificial Intelligence, Biomedical Engineering, Medical Signal Processing, Medical Image processing, Medical Biometrics, EEG, EOG, ECG, MRI, fMRI, DXA imaging, IoT, Robotics & Automation.
 
-PROJECT AND THESIS 
+**PROJECT AND THESIS **
 
 (Key research findings and accomplishments)
 Undergraduate Thesis: “Development of an EEG-based Biometric Identification and Authentication System Using Artificial Neural Networks (ANN) ” under the supervision of  Dr. Mohiuddin Ahmad, Professor, Department of EEE, KUET.
@@ -98,11 +98,11 @@ Undergraduate Project: “Implementation of Sun tracking solar panel using micro
 
 [ Developed a sun tracking solar panel using arduino and LDR sensor. This unique feature of the project is based on cost effective policy and it is now becoming extensively popular technology for the rural people of Bangladesh. ]
 
-INTERNATIONAL PUBLICATIONS (Peer Reviewed)
+**INTERNATIONAL PUBLICATIONS (Peer Reviewed)**
 
 
 
-Published IEEE International Conference papers:
+**Published IEEE International Conference papers:**
 
 1.    Hasan, M.M., Watling, C.N., Larue, S.G. & King, M. (2021, February) Development of a biomedical signal-based driver sleepiness detection system: a supervised machine learning approach. 14th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2021), INSTICC, 11-13 February 2021.
 
@@ -132,7 +132,7 @@ Link: https://ieeexplore.ieee.org/document/8934893 (Full-text article)
 
 
 
-Published Journal Papers:
+**Published Journal Papers:**
 
 
 
@@ -167,7 +167,7 @@ Link: https://www.sciencedirect.com/science/article/pii/S0001457520317206?via%3D
 19.  Hasan, M. M., Islam, M., Imtiyaz, S. A., Alim, M., Rahman, M., & Hasan, M. M. (2018). Harnessing the ocean's wave power for Bangladesh's dynamic coastal areas. In Proceedings of the 5th International Conference on Mechanical, Industrial and Energy Engineering (pp. 1-6). Khulna University Engineering and Technology. Link: https://bit.ly/2ZuePzF (Full-text article)
 
 
-Thesis Dissertations
+**Thesis Dissertations**
 Masters Thesis Paper
 20.  Md. Mahmudul Hasan, “Biomedical Signal based Drowsiness Detection Using Machine Learning : Singular & Hybrid Signal Approaches”, MPhil thesis, 2021,  Queensland University of Technology (QUT), Australia.
 
@@ -202,9 +202,9 @@ My Contribution to the work:
 
 
 
-
+**
 INVITED TALKS & PRESENTATIONS
-
+**
 1.  “Validation of physiological signal-based drowsiness detection system: A machine learning based approach”, Australian Society for Medical Research (ASMR) Queensland Virtual Post Graduate Student Symposium- 2021, ASMR, Australia, 9-10 June 2021.
 
 2.    “Design of EEG based wheelchair by using color stimuli and rhythm analysis”, ROBOChair Berlin, Germany, 10-11 April 2021. (Online Streamed)
@@ -226,7 +226,7 @@ INVITED TALKS & PRESENTATIONS
 9.    “An accurate and efficient solar tracking system using image processing and LDR sensor”, In 2015 2nd International Conference on Electrical Information and Communication Technologies (EICT) (pp. 522-527), Khulna, Bangladesh.
 
 
-                                                                 Reviewer
+** Reviewer**
 
 1. IEEE Transactions on Intelligent Transportation Systems
 2. Journal of Engineering Research and Reports
@@ -234,7 +234,7 @@ INVITED TALKS & PRESENTATIONS
 4. Advances in Science, Technology and Engineering Systems Journal
 
 
-AWARDS, HONORS AND RECOGNITIONS 
+**AWARDS, HONORS AND RECOGNITIONS **
 
 1. Australian Government Research Training Program (RTP) Scholarship 
 
@@ -326,7 +326,7 @@ Award Provider: Bangladesh Government (Ministry of Education)
 Scholarship in class Eight & Five in talent pool grade. The scholarship was given by the education board of Bangladesh  for outstanding result in Primary School Certificate Examination (PSC) and Junior School Certificate (JSC) Examinations. 
 Total Award Amount: 20,000 BDT
 
-ACADEMIC EXPERIENCE
+**ACADEMIC EXPERIENCE**
 
 1. Bangladesh Army University of Engineering & Technology (BAUET)
 
@@ -437,9 +437,6 @@ Vice President
 RESPONSIBILITIES:
 
 
-
- 
-
 - Taking workshops and seminars weekly
 
 - Arrangement of Inter-university Project Fair
@@ -497,9 +494,8 @@ INSTICC is the Institute for Systems and Technologies of Information, Control an
 Website: http://www.insticc.org
 
 
-
-            TECHNICAL SKILL                   
-
+**TECHNICAL SKILL                   
+**
 Programming language: C, C++, MATLAB, Verilog HDL, HTML.
 
 Office Package: Microsoft Word, Microsoft Power Point, Microsoft Excel etc.
@@ -521,7 +517,7 @@ Advanced: C, C++, MATLAB, Simulink, PSPICE, Micro-controller, Arduino, Verilog H
 
 
 
-                           LEADERSHIP & ORGANIZING SKILL
+  ** LEADERSHIP & ORGANIZING SKILL**
 
 
 Co-curricular
@@ -578,14 +574,14 @@ TECHNICAL TOUR
 
 
 
-LANGUAGE PROFICIENCY
+**LANGUAGE PROFICIENCY**
 
 -  English: Excellent in speaking, reading & writing.
 
 -  Bengali (Native language): Fluent in speaking, reading & writing.
 
 
-CREATIVE WORKS
+**CREATIVE WORKS**
 1.  Research Project- Solar Tracking Solar Panel (Got Joy Bangla Youth Award):
 
 -  In this project, a methodology of an automatic solar tracker was designed by means of both sensors and image processing simultaneously. The mechanism of solar tracking was implemented by the use of image processing and LDR sensors.
@@ -680,7 +676,7 @@ NEWS
 2. Channel-24, Bangladesh
 TV Documentary on Innovative Research Projects of Md Mahmudul Hasan and his Research Team
 
-RESEARCH PROJECTS [Completed]
+**RESEARCH PROJECTS [Completed]**
 
 1. Development of an EEG-based Biometric Identification and Authentication System
 
@@ -747,8 +743,8 @@ CO-CURRICULAR & EXTRA-CURRICULAR ACTIVITIES
 
 
 
-
-STRENGTHS     
+**
+STRENGTHS     **
                                                                         
 -  Sincerity & Punctuality.
 
